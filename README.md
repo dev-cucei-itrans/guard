@@ -103,7 +103,7 @@ $user->hasPermission(TodoPermission::ViewAny);
 
 You can install the package via Composer:
 ```bash
-composer require perer876/permission:v1.0.0-alpha.2
+composer require dev-cucei-itrans/guard:v1.0.0-alpha.2
 ```
 
 ## Documentation
