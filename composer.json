@@ -1,5 +1,5 @@
 {
-    "name": "perer876/permission",
+    "name": "dev-cucei-itrans/guard",
     "description": "Lightweight, enum-based definition, querying and mapping of permissions in PHP applications.",
     "type": "library",
     "license": "MIT",
